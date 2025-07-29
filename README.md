@@ -177,6 +177,7 @@ Successfully rendered markdown logs using Kate (see **Figure F**)
 **Task:** Create a tool to connect via SSH, extract metrics, and save logs in a structured format.  
 **Action:** Developed a Bash script that automates SSH login, runs common sysadmin tools (htop, glances, dstat, journalctl), and exports clean markdown logs.  
 **Result:** Produced scalable monitoring solution used to capture and document remote system performance, demonstrating scripting, SSH configuration, and logging best practices.
+
 ---
 
 ## References & Resources
