@@ -45,7 +45,7 @@ This project was designed to create a remote monitoring and log capture system u
 - Users: sabrina-admin, sabi
 
 **Fedora Client:**
-- OS: Fedora Linux 40 Workstation
+- OS: Fedora Linux 42 Workstation
 - Shell: Bash 5.2+
 - Editor: Kate (for reviewing logs and markdown)
 - Tools: OpenSSH, notify-send, Markdown
